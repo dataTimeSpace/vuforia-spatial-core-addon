@@ -36,7 +36,6 @@ directory will be the name of your tool. Your tool's directory should contain at
      Edge Server is running.
 
 A complete tutorial on creating a tool can be found
-[here](https://github.com/ptcrealitylab/vuforia-spatial-toolbox-documentation/blob/master/make%20tools/toolTutorial.md).
-
+[here](https://github.com/dataTimeSpace/vuforia-spatial-toolbox-documentation/blob/main/develop/spatial-tools/tutorial.md)
 Deleting a tool's directory will completely delete that tool from the server. To temporarily
 disable a tool from being available to clients, it can be disabled on the web dashboard.

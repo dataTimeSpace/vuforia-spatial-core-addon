@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptcrealitylab/vuforia-spatial-core-addon.git"
+    "url": "git+https://github.com/dataTimeSpace/vuforia-spatial-core-addon.git"
   },
-  "author": "jhobin@ptc.com",
+  "author": "jhobin@datatime.space",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/ptcrealitylab/vuforia-spatial-core-addon/issues"
+    "url": "https://github.com/dataTimeSpace/vuforia-spatial-core-addon/issues"
   },
-  "homepage": "https://github.com/ptcrealitylab/vuforia-spatial-core-addon#readme",
+  "homepage": "https://github.com/dataTimeSpace/vuforia-spatial-core-addon#readme",
   "dependencies": {
     "node-fetch": "^2.7.0",
     "node-opcua": "^2.133.0",
